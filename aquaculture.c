@@ -9,13 +9,13 @@ LiquidCrystal_PCF8574 lcd(0x27);
 
 // -------- WiFi --------
 #define WIFI_SSID "OPPO A78 5G"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_PASSWORD "xxxxxxxx"
 
 // -------- Email --------
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 587
 #define AUTHOR_EMAIL "umamuralikrishna0@gmail.com"
-#define AUTHOR_PASSWORD "imjdooizcpqnsfqn"
+#define AUTHOR_PASSWORD "xxxxxxxx"
 #define RECIPIENT_EMAIL "nn024856@gmail.com"
 
 // -------- Pins --------
